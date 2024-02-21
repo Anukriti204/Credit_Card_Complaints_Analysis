@@ -1,6 +1,6 @@
 Credit Cards Complaints Analysis
 
-Live Dashboard : https://public.tableau.com/app/profile/anukriti.singh6110/viz/creditcardproject/CREDITCARDCOMPLAINTS?publish=yes
+Live Dashboard : [Credit Card Analysis](https://public.tableau.com/app/profile/anukriti.singh6110/viz/creditcardproject/CREDITCARDCOMPLAINTS?publish=yes)
 
 Problem Statement : Credit card companies receive numerous complaints from customers regarding various issues such as billing statements,  transactions issues, customer service problems, and more. Analyzing these complaints can provide valuable insights into customer satisfaction, identify recurring issues, and help improve overall service quality.
 
