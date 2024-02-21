@@ -10,7 +10,9 @@ Create the metrics according to the metrics list. Create a dashboard according t
 
 Objective : The objective of this project is to analyze a data set containing credit card complaints to uncover patterns, trends, and insights that can assist the credit card company in addressing customer concerns and improving their services
 
-Dashboard : <img width="415" alt="image" src="https://github.com/Anukriti204/Credit_Card_Complaints_Analysis/assets/159823977/09ecf435-5131-4ae6-b0bf-af8fc9f2ef83">
+Dashboard :
+
+ <img width="415" alt="image" src="https://github.com/Anukriti204/Credit_Card_Complaints_Analysis/assets/159823977/09ecf435-5131-4ae6-b0bf-af8fc9f2ef83">
 
 
 
