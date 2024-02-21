@@ -9,6 +9,7 @@ Task : Sunitha Pandey is the data analyst in the supply chain team who joined a 
 Create the metrics according to the metrics list. Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in the form of a comic. Create relevant insights that are not provided in the metric list/stakeholder meeting.
 
 Objective : The objective of this project is to analyze a data set containing credit card complaints to uncover patterns, trends, and insights that can assist the credit card company in addressing customer concerns and improving their services
+
 Dashboard : <img width="415" alt="image" src="https://github.com/Anukriti204/Credit_Card_Complaints_Analysis/assets/159823977/09ecf435-5131-4ae6-b0bf-af8fc9f2ef83">
 
 
